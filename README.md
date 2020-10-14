@@ -2,7 +2,7 @@
 
 Tracking Creepy Internet of Things
 
-The Problem
+The Problem :
 
 Iot products and services can be 'creepy' in many ways.
 
@@ -12,7 +12,7 @@ Many IoT products are designed to be 'always-on' black boxes - we cannot control
 
 The current economic models of data collection and surveillance tech create increasing incentives for IoT manufacturers to collect data in sneaky or non transparent ways.
 
-The Solution
+The Solution :
 
 Calling all watchdogs, whistleblowers, activists and citizens!
 
