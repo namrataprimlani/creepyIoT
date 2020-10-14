@@ -23,3 +23,10 @@ Expose invasive IoT products.
 Advocate for a safe and trustworthy data future.
 
 A repository of creepy IoT products, features and sercvices - How many creepy IoT encounters can we expose?
+
+References 
+
+EPIC Letter to the Attorney General on 'always on' devices, 2015 : https://epic.org/privacy/internet/ftc/EPIC-Letter-FTC-AG-Always-On.pdf
+EPIC Consumer Privacy Project : https://epic.org/privacy/consumer/
+Mozilla, *privacynotincluded : https://foundation.mozilla.org/en/privacynotincluded/
+
