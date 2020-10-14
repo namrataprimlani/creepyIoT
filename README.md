@@ -34,6 +34,8 @@ Mozilla, *privacynotincluded : https://foundation.mozilla.org/en/privacynotinclu
 
 OpenDott project : https://opendott.org/
 
+awful-ai : https://github.com/daviddao/awful-ai
+
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508. 
 
 
